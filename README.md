@@ -41,19 +41,19 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 ### 1. Quản lý danh sách tài sản máy tính
 
 <p align="center">
-  <img src="./docs/images/tai-san-may-tinh.png" width="90%" alt="Quản lý danh sách tài sản máy tính">
+  <img src="./docs/images/tai-san-may-tinh.png.png" width="90%" alt="Quản lý danh sách tài sản máy tính">
 </p>
 
 ### 2. Quản lý bàn giao tài sản cho nhân viên
 
 <p align="center">
-  <img src="./docs/images/ban-giao-may-tinh.png" width="90%" alt="Quản lý bàn giao tài sản">
+  <img src="./docs/images/ban-giao-may-tinh.png.png" width="90%" alt="Quản lý bàn giao tài sản">
 </p>
 
 ### 3. Quản lý bảo trì/bảo hành tài sản
 
 <p align="center">
-  <img src="./docs/images/bao-tri-may-tinh.png" width="90%" alt="Quản lý bảo trì bảo hành tài sản">
+  <img src="./docs/images/bao-tri-may-tinh.png.png" width="90%" alt="Quản lý bảo trì bảo hành tài sản">
 </p>
 ## ⚙️ 4. Cài đặt
 
