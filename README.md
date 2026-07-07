@@ -36,12 +36,25 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 </div>
 
-## 🚀 3. Các project đã thực hiện dựa trên Platform
+## 🚀 3. Một số hình ảnh minh chứng đề tài:
 
-Một số project sinh viên đã thực hiện:
-- #### [Khoá 15](./docs/projects/K15/README.md)
-- #### [Khoá 16](./docs/projects/K16/README.md)
-- #### [Khoá 17](./docs/projects/K17/README.md)
+### 1. Quản lý danh sách tài sản máy tính
+
+<p align="center">
+  <img src="./docs/images/tai-san-may-tinh.png" width="90%" alt="Quản lý danh sách tài sản máy tính">
+</p>
+
+### 2. Quản lý bàn giao tài sản cho nhân viên
+
+<p align="center">
+  <img src="./docs/images/ban-giao-may-tinh.png" width="90%" alt="Quản lý bàn giao tài sản">
+</p>
+
+### 3. Quản lý bảo trì/bảo hành tài sản
+
+<p align="center">
+  <img src="./docs/images/bao-tri-may-tinh.png" width="90%" alt="Quản lý bảo trì bảo hành tài sản">
+</p>
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
